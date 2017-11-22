@@ -1,6 +1,9 @@
 # smaapdf
 Quick script to compress a PDF with option to choose compression type.
 
+# Requirements
+Linux - Needs Ghostscript
+
 # Make it executabele
 chmod +x smaapdf.sh
 
